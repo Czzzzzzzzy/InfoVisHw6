@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import * as d3 from "d3";
 import { Graph } from "../components/graph";
-import { TreeMap } from "../components/treemap";
+import TreeMap  from "../components/treemap";
 import { getTree } from "../utils/getTree";
 
 // The data is from the healthcare dataset.
